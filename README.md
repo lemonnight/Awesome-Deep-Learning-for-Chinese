@@ -1,31 +1,31 @@
 # Awesome Deep Learning 中文版[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Table of Contents
+## 目录
 
-* **[Free Online Books](#free-online-books)**  
+* **[免费电子书](#免费电子书)**  
 
-* **[Courses](#courses)**  
+* **[慕课](#courses)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
+* **[视频和课件](#videos-and-lectures)**  
 
-* **[Papers](#papers)**  
+* **[论文](#papers)**  
 
-* **[Tutorials](#tutorials)**  
+* **[教程](#tutorials)**  
 
-* **[Researchers](#researchers)**  
+* **[研究人员](#researchers)**  
 
-* **[WebSites](#websites)**  
+* **[网站](#websites)**  
 
-* **[Datasets](#datasets)**  
+* **[数据集](#datasets)**  
 
-* **[Frameworks](#frameworks)**  
+* **[开源框架](#frameworks)**  
 
-* **[Miscellaneous](#miscellaneous)**  
+* **[其他](#miscellaneous)**  
 
-* **[Contributing](#contributing)**  
+* **[贡献](#contributing)**  
 
 
-### Free Online Books
+### 免费电子书
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
